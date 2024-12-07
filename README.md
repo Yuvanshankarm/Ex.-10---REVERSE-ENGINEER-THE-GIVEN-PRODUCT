@@ -1,6 +1,6 @@
 # Ex.   - REVERSE ENGINEER THE GIVEN PRODUCT
 
-### DATE: 
+### DATE: 07/12/2024
 
 ## AIM: 
 ### To reverse engineering the product and prototyping the same in 3D printer.
@@ -33,8 +33,8 @@
 ## Input:
 Door handle 3d modeling
 ### Output:
-![Screenshot 2024-11-28 181445](https://github.com/user-attachments/assets/cf4caf63-ea67-400f-99a1-909763fa70a4)
 
+![door handle new](https://github.com/user-attachments/assets/419ecee3-ba97-40b2-a571-770b8a4d2710)
 
 ### Name: Yuvan shankar M
 ### Register Number: 24900656
